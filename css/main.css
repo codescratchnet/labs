@@ -1,0 +1,19 @@
+.w3-table-all {
+    border: 1px solid #ccc;
+}
+
+table.w3-table-all {
+    margin: 16px 0;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    display: table;
+}
+
+.w3-table-all td, .w3-table-all th, .w3-table-all th:first-child, .w3-table-all td:first-child {
+    padding: 8px;
+	border-color: grey;
+}
